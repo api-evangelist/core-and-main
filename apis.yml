@@ -1,7 +1,12 @@
 aid: core-and-main
-url: https://raw.githubusercontent.com/api-evangelist/core-and-main/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/core-and-main/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.core-and-main.com
+description: >-
+  Core & Main is a leading specialty distributor of water, wastewater, storm drainage,
+  and fire protection products and related services to professionals across the United
+  States.
