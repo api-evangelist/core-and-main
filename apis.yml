@@ -48,7 +48,7 @@ common:
     url: https://www.coreandmain.com/Sustainability
   - type: PrivacyPolicy
     url: https://www.coreandmain.com/Privacy-Policy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.coreandmain.com/Terms-of-Use
   - type: LinkedIn
     url: https://www.linkedin.com/company/core-and-main
