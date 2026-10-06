@@ -50,10 +50,14 @@ tags:
   - Water
   - Waterworks
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://coreandmain.com/news/
+    type: Blog
+  - url: https://coreandmain.com/news/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/core-and-main-domain-security.yml
   - type: Website
